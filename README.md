@@ -1,4 +1,4 @@
-# Nexus-Intern
+# Nexus-Intern - Python Developer Intern
 Includes three given intern task 
 
 Task 1:
