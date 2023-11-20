@@ -1,5 +1,5 @@
 # Nexus-Intern - Python Developer Intern
-Includes three given intern task 
+Includes three tasks
 
 Task 1:
 Write a python function that accepts a string and calculates the number of upper case
